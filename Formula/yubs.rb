@@ -3,7 +3,7 @@ class yubs < Formula
 desc "URL shortener via bit.ly, etc."
 homepage "https://github.com/SOICHIRO-NISHIO-github/yubs"
 url "https://github.com/SOICHIRO-NISHIO-github/yubs/releases/download/v#{VERSION}/yubs-#{VERSION}_darwin_amd64.tar.gz" version VERSION
-sha256 "308046086a8531f162b3096002951adb629c55a6c99e7d335f7f60732ff93a67"
+sha256 "c015ada80570a976a28e23e54db50de665c581883e9ffa8566a1b1fbd6003788"
 license ”MIT"
 option "without-completions", "Disable bash completions"
 depends_on "bash-completion@2" => :optional
