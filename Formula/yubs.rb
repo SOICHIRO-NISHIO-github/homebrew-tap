@@ -1,5 +1,5 @@
 VERSION="1.0.0"
-class yubs < Formula
+class Yubs < Formula
 desc "URL shortener via bit.ly, etc."
 homepage "https://github.com/SOICHIRO-NISHIO-github/yubs"
 url "https://github.com/SOICHIRO-NISHIO-github/yubs/releases/download/v#{VERSION}/yubs-#{VERSION}_darwin_amd64.tar.gz" version VERSION
